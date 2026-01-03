@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# Environment variables
+.env
+
+# Firebase / credentials
+*.json
+firebase-adminsdk*.json
+
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
